@@ -16,9 +16,27 @@ I'm a passionate software developer and machine learning enthusiast, constantly 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-- **Frameworks and Libraries**: React, Node.js, Flask, Scikit-learn, TensorFlow, Keras
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Docker, AWS, Git, Matplotlib, Seaborn, Plotly
+**Frameworks and Libraries**:
+[![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
+[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
+[![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)](https://flask.palletsprojects.com/)
+[![Scikit-learn](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-scikit-learn-is-a-free-software-machine-learning-library-for-the-python-programming-language-logo-color-tal-revivo.png)](https://scikit-learn.org/)
+[![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/)
+[![Keras](https://img.icons8.com/color/48/000000/keras.png)](https://keras.io/)
+
+**Databases**:
+[![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
+[![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)](https://www.postgresql.org/)
+[![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
+
+**Tools**:
+[![Docker](https://img.icons8.com/color/48/000000/docker.png)](https://www.docker.com/)
+[![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)](https://aws.amazon.com/)
+[![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
+[![Matplotlib](https://img.icons8.com/ios-filled/50/000000/matplotlib.png)](https://matplotlib.org/)
+[![Seaborn](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-seaborn-an-open-source-python-visualization-library-based-on-matplotlib-logo-color-tal-revivo.png)](https://seaborn.pydata.org/)
+[![Plotly](https://img.icons8.com/ios-filled/50/000000/plotly.png)](https://plotly.com/)
+
 ## 🌟 About Me
 I'm driven by curiosity and a desire to solve real-world problems through technology. My journey spans web development, data science, and machine learning, always aiming to create solutions that matter. I'm a continuous learner, always looking to expand my skill set and collaborate on exciting projects.
 

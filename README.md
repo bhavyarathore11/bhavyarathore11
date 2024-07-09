@@ -1,4 +1,5 @@
 # Welcome to My GitHub! 👋
+![Banner](blob:https://www.figma.com/8a9c7b8f-34e2-45b0-bee2-73919e3dc6da)
 
 I'm a passionate software developer and machine learning enthusiast, constantly exploring the realms of technology to build innovative and impactful solutions. Dive into my projects to see how I turn complex problems into elegant solutions.
 

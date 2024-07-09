@@ -4,26 +4,15 @@
 I'm a passionate software developer and machine learning enthusiast, constantly exploring the realms of technology to build innovative and impactful solutions. Dive into my projects to see how I turn complex problems into elegant solutions.
 
 ## 🚀 Featured Projects
+
 ### 🕵️‍♂️ Fake Reviews Detection
-[![Fake Reviews Detection](https://img.icons8.com/color/96/000000/fake-news.png)](https://github.com/bhavyarathore11/Fake-Reviews-Detection-)
-Detecting fake reviews is crucial for maintaining the integrity of online platforms. This project leverages natural language processing and machine learning to accurately identify fraudulent reviews.
-- **Tech Stack**: Python, NLTK, Scikit-learn, Pandas
-- **Highlights**: Achieved high accuracy with Multinomial Naive Bayes and SVM classifiers.
-- [Explore the Project](https://github.com/bhavyarathore11/Fake-Reviews-Detection-)
+[![Fake Reviews Detection](https://www.shutterstock.com/image-vector/fake-smartphone-news-icon-outline-260nw-1666881757.jpg)](https://github.com/bhavyarathore11/Fake-Reviews-Detection-)
 
 ### 🌸 Aromatica Perfume Shop
-[![Aromatica Perfume Shop](https://img.icons8.com/color/96/000000/perfume.png)](https://bhavyarathore11.github.io/Aromatica-perfume-shop/index.html)
-A luxurious e-commerce platform designed for perfume enthusiasts. Aromatica offers a seamless shopping experience with advanced search, secure payments, and user-friendly navigation.
-- **Tech Stack**: React, Node.js, MongoDB, Stripe
-- **Highlights**: Integrated advanced search and secure payment processing.
-- [Explore the Project](https://bhavyarathore11.github.io/Aromatica-perfume-shop/index.html)
+[![Aromatica Perfume Shop](https://cdn.create.vista.com/api/media/small/576261676/stock-vector-perfume-icon-flat-illustration-mineral-stone-vector-icons-web)](https://bhavyarathore11.github.io/Aromatica-perfume-shop/index.html)
 
 ### 📊 Student Performance Prediction
-[![Student Performance Prediction](https://img.icons8.com/color/96/000000/student-center.png)](https://bhavyarathore11.github.io/Student-performance-predictions-/)
-Helping educators make data-driven decisions, this project predicts student performance using machine learning, identifying those at risk and enabling timely interventions.
-- **Tech Stack**: Python, Scikit-learn, TensorFlow, Flask
-- **Highlights**: Predictive models with high accuracy, including Logistic Regression and Random Forests.
-- [Explore the Project](https://bhavyarathore11.github.io/Student-performance-predictions-/)
+[![Student Performance Prediction](https://img.lovepik.com/element/45017/8384.png_860.png)](https://bhavyarathore11.github.io/Student-performance-predictions-/)
 
 ## 💻 Skills and Technologies
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)

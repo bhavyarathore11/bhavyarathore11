@@ -1,7 +1,7 @@
 # Welcome to My GitHub! 👋
 ![Banner](https://github.com/bhavyarathore11/bhavyarathore11/blob/main/Make%20your%20README.png?raw=true)
 
-I'm a passionate software developer and machine learning enthusiast, constantly exploring the realms of technology to build innovative and impactful solutions. Dive into my projects to see how I turn complex problems into elegant solutions.
+I'm a 3rd year student a future software devloper and machine learning enthusiast, constantly exploring the realms of technology to build innovative and impactful solutions. Dive into my projects to see how I turn complex problems into elegant solutions.
 
 ## 🚀 Featured Projects
 ### 🕵️‍♂️ Fake Reviews Detection

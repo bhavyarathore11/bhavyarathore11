@@ -41,11 +41,9 @@ I'm a passionate software developer and machine learning enthusiast, constantly 
 I'm driven by curiosity and a desire to solve real-world problems through technology. My journey spans web development, data science, and machine learning, always aiming to create solutions that matter. I'm a continuous learner, always looking to expand my skill set and collaborate on exciting projects.
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [linkedin.com/in/username](https://www.linkedin.com/in/username)
-- **GitHub**: [github.com/username](https://github.com/username)
-- **Email**: youremail@example.com
+- ## 📫 Let's Connect!
 
-## 🔗 Links
-- [Portfolio Website](https://yourwebsite.com)
-- [Blog](https://yourblog.com)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://https://www.linkedin.com/in/bhavya-rathore-761a7324a/)
+[![GitHub](https://img.icons8.com/color/48/000000/github.png)](https://github.com/bhavyarathore11)
+[![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:bhavyarathore2211@gmail.com)
 

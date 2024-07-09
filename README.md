@@ -4,15 +4,20 @@
 I'm a passionate software developer and machine learning enthusiast, constantly exploring the realms of technology to build innovative and impactful solutions. Dive into my projects to see how I turn complex problems into elegant solutions.
 
 ## 🚀 Featured Projects
-
 ### 🕵️‍♂️ Fake Reviews Detection
-[![Fake Reviews Detection](https://www.shutterstock.com/image-vector/fake-smartphone-news-icon-outline-260nw-1666881757.jpg)](https://github.com/bhavyarathore11/Fake-Reviews-Detection-)
+<a href="https://github.com/bhavyarathore11/Fake-Reviews-Detection-">
+  <img src="https://www.shutterstock.com/image-vector/fake-smartphone-news-icon-outline-260nw-1666881757.jpg" alt="Fake Reviews Detection" style="border-radius: 50%; width: 80px; height: 80px;">
+</a>
 
 ### 🌸 Aromatica Perfume Shop
-[![Aromatica Perfume Shop](https://cdn.create.vista.com/api/media/small/576261676/stock-vector-perfume-icon-flat-illustration-mineral-stone-vector-icons-web)](https://bhavyarathore11.github.io/Aromatica-perfume-shop/index.html)
+<a href="https://bhavyarathore11.github.io/Aromatica-perfume-shop/index.html">
+  <img src="https://cdn.create.vista.com/api/media/small/576261676/stock-vector-perfume-icon-flat-illustration-mineral-stone-vector-icons-web" alt="Aromatica Perfume Shop" style="border-radius: 50%; width: 80px; height: 80px;">
+</a>
 
 ### 📊 Student Performance Prediction
-[![Student Performance Prediction](https://img.lovepik.com/element/45017/8384.png_860.png)](https://bhavyarathore11.github.io/Student-performance-predictions-/)
+<a href="https://bhavyarathore11.github.io/Student-performance-predictions-/">
+  <img src="https://img.lovepik.com/element/45017/8384.png_860.png" alt="Student Performance Prediction" style="border-radius: 50%; width: 80px; height: 80px;">
+</a>
 
 ## 💻 Skills and Technologies
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)

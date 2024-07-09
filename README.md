@@ -6,14 +6,8 @@ I'm a passionate software developer and machine learning enthusiast, constantly 
 ## 🚀 Featured Projects
 ### 🕵️‍♂️ Fake Reviews Detection
 [<img src="https://www.shutterstock.com/image-vector/fake-smartphone-news-icon-outline-260nw-1666881757.jpg" alt="Fake Reviews Detection" width="80" height="80">](https://github.com/bhavyarathore11/Fake-Reviews-Detection-)
-
-<br><br>
-
 ### 🌸 Aromatica Perfume Shop
 [<img src="https://cdn.create.vista.com/api/media/small/576261676/stock-vector-perfume-icon-flat-illustration-mineral-stone-vector-icons-web" alt="Aromatica Perfume Shop" width="80" height="80">](https://bhavyarathore11.github.io/Aromatica-perfume-shop/index.html)
-
-<br><br>
-
 ### 📊 Student Performance Prediction
 [<img src="https://img.lovepik.com/element/45017/8384.png_860.png" alt="Student Performance Prediction" width="80" height="80">](https://bhavyarathore11.github.io/Student-performance-predictions-/)
 

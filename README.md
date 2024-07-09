@@ -16,7 +16,7 @@ I'm a passionate software developer and machine learning enthusiast, constantly 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-**Frameworks and Libraries**:
+
 [![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
 [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
 [![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)](https://flask.palletsprojects.com/)
@@ -24,12 +24,10 @@ I'm a passionate software developer and machine learning enthusiast, constantly 
 [![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/)
 [![Keras](https://img.icons8.com/color/48/000000/keras.png)](https://keras.io/)
 
-**Databases**:
 [![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
 [![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)](https://www.postgresql.org/)
 [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
 
-**Tools**:
 [![Docker](https://img.icons8.com/color/48/000000/docker.png)](https://www.docker.com/)
 [![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)](https://aws.amazon.com/)
 [![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
@@ -41,7 +39,7 @@ I'm a passionate software developer and machine learning enthusiast, constantly 
 I'm driven by curiosity and a desire to solve real-world problems through technology. My journey spans web development, data science, and machine learning, always aiming to create solutions that matter. I'm a continuous learner, always looking to expand my skill set and collaborate on exciting projects.
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://https://www.linkedin.com/in/bhavya-rathore-761a7324a/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/bhavya-rathore-761a7324a)
 [![GitHub](https://img.icons8.com/color/48/000000/github.png)](https://github.com/bhavyarathore11)
 [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:bhavyarathore2211@gmail.com)
 

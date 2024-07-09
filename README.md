@@ -4,29 +4,19 @@
 I'm a passionate software developer and machine learning enthusiast, constantly exploring the realms of technology to build innovative and impactful solutions. Dive into my projects to see how I turn complex problems into elegant solutions.
 
 ## 🚀 Featured Projects
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <div style="margin-bottom: 20px;">
-        <a href="https://github.com/bhavyarathore11/Fake-Reviews-Detection-">
-            <img src="https://www.shutterstock.com/image-vector/fake-smartphone-news-icon-outline-260nw-1666881757.jpg" alt="Fake Reviews Detection" style="border-radius: 50%; width: 80px; height: 80px;">
-        </a>
-        <br>
-        <strong>Fake Reviews Detection</strong>
-    </div>
-    <div style="margin-bottom: 20px;">
-        <a href="https://bhavyarathore11.github.io/Aromatica-perfume-shop/index.html">
-            <img src="https://cdn.create.vista.com/api/media/small/576261676/stock-vector-perfume-icon-flat-illustration-mineral-stone-vector-icons-web" alt="Aromatica Perfume Shop" style="border-radius: 50%; width: 80px; height: 80px;">
-        </a>
-        <br>
-        <strong>Aromatica Perfume Shop</strong>
-    </div>
-    <div style="margin-bottom: 20px;">
-        <a href="https://bhavyarathore11.github.io/Student-performance-predictions-/">
-            <img src="https://img.lovepik.com/element/45017/8384.png_860.png" alt="Student Performance Prediction" style="border-radius: 50%; width: 80px; height: 80px;">
-        </a>
-        <br>
-        <strong>Student Performance Prediction</strong>
-    </div>
-</div>
+### 🕵️‍♂️ Fake Reviews Detection
+[<img src="https://www.shutterstock.com/image-vector/fake-smartphone-news-icon-outline-260nw-1666881757.jpg" alt="Fake Reviews Detection" width="80" height="80">](https://github.com/bhavyarathore11/Fake-Reviews-Detection-)
+
+<br><br>
+
+### 🌸 Aromatica Perfume Shop
+[<img src="https://cdn.create.vista.com/api/media/small/576261676/stock-vector-perfume-icon-flat-illustration-mineral-stone-vector-icons-web" alt="Aromatica Perfume Shop" width="80" height="80">](https://bhavyarathore11.github.io/Aromatica-perfume-shop/index.html)
+
+<br><br>
+
+### 📊 Student Performance Prediction
+[<img src="https://img.lovepik.com/element/45017/8384.png_860.png" alt="Student Performance Prediction" width="80" height="80">](https://bhavyarathore11.github.io/Student-performance-predictions-/)
+
 ## 💻 Skills and Technologies
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)

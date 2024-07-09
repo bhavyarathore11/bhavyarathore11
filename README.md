@@ -12,7 +12,10 @@ I'm a passionate software developer and machine learning enthusiast, constantly 
 - [Explore the Project](https://bhavyarathore11.github.io/Student-performance-predictions-/)
 
 ## 💻 Skills and Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black),![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white),
+![Python](https://img.icons8.com/color/48/000000/python--v1.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 - **Frameworks and Libraries**: React, Node.js, Flask, Scikit-learn, TensorFlow, Keras
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Docker, AWS, Git, Matplotlib, Seaborn, Plotly

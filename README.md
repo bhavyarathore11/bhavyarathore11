@@ -17,7 +17,6 @@ I'm a 3rd year student a future software devloper and machine learning enthusias
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 
-[![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
 [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
 [![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)](https://flask.palletsprojects.com/)
 [![Scikit-learn](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-scikit-learn-is-a-free-software-machine-learning-library-for-the-python-programming-language-logo-color-tal-revivo.png)](https://scikit-learn.org/)
@@ -25,10 +24,8 @@ I'm a 3rd year student a future software devloper and machine learning enthusias
 [![Keras](https://img.icons8.com/color/48/000000/keras.png)](https://keras.io/)
 
 [![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
-[![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)](https://www.postgresql.org/)
 [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
 
-[![Docker](https://img.icons8.com/color/48/000000/docker.png)](https://www.docker.com/)
 [![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)](https://aws.amazon.com/)
 [![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
 [![Matplotlib](https://img.icons8.com/ios-filled/50/000000/matplotlib.png)](https://matplotlib.org/)

@@ -16,21 +16,17 @@ I'm a 3rd year student a future software devloper and machine learning enthusias
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![Java](https://img.icons8.com/color/48/000000/css3.png)
 
 [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
 [![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)](https://flask.palletsprojects.com/)
-[![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)](https://scikit-learn.org/)
 [![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/)
-[![Keras](https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg)](https://keras.io/)
 
 [![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
 [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
 
 [![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)](https://aws.amazon.com/)
 [![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
-[![Matplotlib](https://img.icons8.com/ios-filled/50/000000/matplotlib.png)](https://matplotlib.org/)
-[![Seaborn](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-seaborn-an-open-source-python-visualization-library-based-on-matplotlib-logo-color-tal-revivo.png)](https://seaborn.pydata.org/)
-[![Plotly](https://img.icons8.com/ios-filled/50/000000/plotly.png)](https://plotly.com/)
 
 ## 🌟 About Me
 I'm driven by curiosity and a desire to solve real-world problems through technology. My journey spans web development, data science, and machine learning, always aiming to create solutions that matter. I'm a continuous learner, always looking to expand my skill set and collaborate on exciting projects.

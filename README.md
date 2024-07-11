@@ -16,7 +16,7 @@ I'm a 3rd year student a future software devloper and machine learning enthusias
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![Java](https://img.icons8.com/color/48/000000/css3.png)
+![Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/64px-Java_programming_language_logo.svg.png)
 
 [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
 [![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)](https://flask.palletsprojects.com/)

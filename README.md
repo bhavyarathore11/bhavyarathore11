@@ -19,9 +19,9 @@ I'm a 3rd year student a future software devloper and machine learning enthusias
 
 [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
 [![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)](https://flask.palletsprojects.com/)
-[![Scikit-learn](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-scikit-learn-is-a-free-software-machine-learning-library-for-the-python-programming-language-logo-color-tal-revivo.png)](https://scikit-learn.org/)
+[![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)](https://scikit-learn.org/)
 [![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/)
-[![Keras](https://img.icons8.com/color/48/000000/keras.png)](https://keras.io/)
+[![Keras](https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg)](https://keras.io/)
 
 [![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
 [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)

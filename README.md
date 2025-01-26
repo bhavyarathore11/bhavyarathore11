@@ -5,13 +5,13 @@ I'm a 3rd-year student, a future software developer, and a machine learning enth
 
 ## 🚀 Featured Projects
 ### 🎬 NETFLIX Entertainment Recommender
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Netflix_logo_2015.png" alt="NETFLIX Entertainment Recommender" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://github.com/bhavyarathore11/NETFLIX-Entertainment-recommender-App-)
+[<img src="https://images.app.goo.gl/dZyjFYgfmGkC" alt="NETFLIX Entertainment Recommender" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://github.com/bhavyarathore11/NETFLIX-Entertainment-recommender-App-)
 
 ### 🌸 Aromatica Perfume Shop
 [<img src="https://cdn.create.vista.com/api/media/small/576261676/stock-vector-perfume-icon-flat-illustration-mineral-stone-vector-icons-web" alt="Aromatica Perfume Shop" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://bhavyarathore11.github.io/Aromatica-perfume-shop/index.html)
 
 ### 📸 Caption Harmony
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Instagram_icon.png" alt="Caption Harmony" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://github.com/bhavyarathore11/CaptionHarmony)
+[<img src="https://images.app.goo.gl/MiMWUpeXc9nUhy" alt="Caption Harmony" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://github.com/bhavyarathore11/CaptionHarmony)
 
 ## 💻 Skills and Technologies
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)

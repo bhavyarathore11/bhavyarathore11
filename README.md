@@ -4,14 +4,14 @@
 I'm a 3rd-year student, a future software developer, and a machine learning enthusiast, constantly exploring the realms of technology to build innovative and impactful solutions. Dive into my projects to see how I turn complex problems into elegant solutions.
 
 ## 🚀 Featured Projects
-### 🕵️‍♂️ Fake Reviews Detection
-[<img src="https://www.shutterstock.com/image-vector/fake-smartphone-news-icon-outline-260nw-1666881757.jpg" alt="Fake Reviews Detection" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://github.com/bhavyarathore11/Fake-Reviews-Detection-)
+### 🎬 NETFLIX Entertainment Recommender App
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Netflix_Logo.svg" alt="NETFLIX Entertainment Recommender" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://github.com/bhavyarathore11/NETFLIX-Entertainment-recommender-App-)
 
 ### 🌸 Aromatica Perfume Shop
 [<img src="https://cdn.create.vista.com/api/media/small/576261676/stock-vector-perfume-icon-flat-illustration-mineral-stone-vector-icons-web" alt="Aromatica Perfume Shop" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://bhavyarathore11.github.io/Aromatica-perfume-shop/index.html)
 
-### 📊 Student Performance Prediction
-[<img src="https://img.lovepik.com/element/45017/8384.png_860.png" alt="Student Performance Prediction" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://bhavyarathore11.github.io/Student-performance-predictions-/)
+### 📸 CaptionHarmony
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Instagram_logo_2016.svg" alt="Caption Harmony" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://github.com/bhavyarathore11/CaptionHarmony)
 
 ## 💻 Skills and Technologies
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)

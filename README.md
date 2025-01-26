@@ -4,14 +4,34 @@
 I'm a 3rd-year student, a future software developer, and a machine learning enthusiast, constantly exploring the realms of technology to build innovative and impactful solutions. Dive into my projects to see how I turn complex problems into elegant solutions.
 
 ## 🚀 Featured Projects
-### 🎬 NETFLIX Entertainment Recommender App
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Netflix_Logo.svg" alt="NETFLIX Entertainment Recommender" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://github.com/bhavyarathore11/NETFLIX-Entertainment-recommender-App-)
+<div align="center">
+    <a href="https://github.com/bhavyarathore11/NETFLIX-Entertainment-recommender-App-" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Netflix_Logo.svg" alt="NETFLIX Entertainment Recommender" width="200" height="200" style="border-radius: 15px; box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+        <h3>🎬 NETFLIX Entertainment Recommender</h3>
+        <p>An intelligent recommendation system for movies and shows, designed to enhance your entertainment experience. </p>
+    </a>
+</div>
 
-### 🌸 Aromatica Perfume Shop
-[<img src="https://cdn.create.vista.com/api/media/small/576261676/stock-vector-perfume-icon-flat-illustration-mineral-stone-vector-icons-web" alt="Aromatica Perfume Shop" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://bhavyarathore11.github.io/Aromatica-perfume-shop/index.html)
+<div align="center" style="margin-top: 40px;">
+    <a href="https://bhavyarathore11.github.io/Aromatica-perfume-shop/index.html" target="_blank">
+        <img src="https://cdn.create.vista.com/api/media/small/576261676/stock-vector-perfume-icon-flat-illustration-mineral-stone-vector-icons-web" alt="Aromatica Perfume Shop" width="200" height="200" style="border-radius: 15px; box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+        <h3>🌸 Aromatica Perfume Shop</h3>
+        <p>A smooth online shopping experience for perfume lovers, with the latest fragrances available at your fingertips.</p>
+    </a>
+</div>
 
-### 📸 CaptionHarmony
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Instagram_logo_2016.svg" alt="Caption Harmony" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://github.com/bhavyarathore11/CaptionHarmony)
+<div align="center" style="margin-top: 40px;">
+    <a href="https://github.com/bhavyarathore11/CaptionHarmony" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Instagram_logo_2016.svg" alt="Caption Harmony" width="200" height="200" style="border-radius: 15px; box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+        <h3>📸 Caption Harmony</h3>
+        <p>Create captivating and engaging captions for social media posts with an intelligent AI-powered solution.</p>
+    </a>
+</div>
+
+<br><br>
+
+### ✨ Hover Effects
+* Enjoy the smooth hover effects! The images scale up and have a subtle shadow when you hover over them, giving a more dynamic and attractive look.
 
 ## 💻 Skills and Technologies
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)

@@ -1,15 +1,17 @@
 # Welcome to My GitHub! 👋
-![Banner](https://github.com/bhavyarathore11/bhavyarathore11/blob/main/Make%20your%20README.png?raw=true)
+![Banner](https://media.giphy.com/media/l0MYt5jPR6Qe6r4Xi/giphy.gif)  <!-- Use an animated banner -->
 
-I'm a 3rd year student a future software devloper and machine learning enthusiast, constantly exploring the realms of technology to build innovative and impactful solutions. Dive into my projects to see how I turn complex problems into elegant solutions.
+I'm a 3rd-year student, a future software developer, and a machine learning enthusiast, constantly exploring the realms of technology to build innovative and impactful solutions. Dive into my projects to see how I turn complex problems into elegant solutions.
 
 ## 🚀 Featured Projects
 ### 🕵️‍♂️ Fake Reviews Detection
-[<img src="https://www.shutterstock.com/image-vector/fake-smartphone-news-icon-outline-260nw-1666881757.jpg" alt="Fake Reviews Detection" width="80" height="80">](https://github.com/bhavyarathore11/Fake-Reviews-Detection-)
+[<img src="https://www.shutterstock.com/image-vector/fake-smartphone-news-icon-outline-260nw-1666881757.jpg" alt="Fake Reviews Detection" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://github.com/bhavyarathore11/Fake-Reviews-Detection-)
+
 ### 🌸 Aromatica Perfume Shop
-[<img src="https://cdn.create.vista.com/api/media/small/576261676/stock-vector-perfume-icon-flat-illustration-mineral-stone-vector-icons-web" alt="Aromatica Perfume Shop" width="80" height="80">](https://bhavyarathore11.github.io/Aromatica-perfume-shop/index.html)
+[<img src="https://cdn.create.vista.com/api/media/small/576261676/stock-vector-perfume-icon-flat-illustration-mineral-stone-vector-icons-web" alt="Aromatica Perfume Shop" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://bhavyarathore11.github.io/Aromatica-perfume-shop/index.html)
+
 ### 📊 Student Performance Prediction
-[<img src="https://img.lovepik.com/element/45017/8384.png_860.png" alt="Student Performance Prediction" width="80" height="80">](https://bhavyarathore11.github.io/Student-performance-predictions-/)
+[<img src="https://img.lovepik.com/element/45017/8384.png_860.png" alt="Student Performance Prediction" width="80" height="80" style="transition: transform 0.2s ease-in-out; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">](https://bhavyarathore11.github.io/Student-performance-predictions-/)
 
 ## 💻 Skills and Technologies
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)

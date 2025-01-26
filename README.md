@@ -1,5 +1,5 @@
 # Welcome to My GitHub! 👋
-![Banner](https://media.giphy.com/media/l0MYt5jPR6Qe6r4Xi/giphy.gif)  <!-- Use an animated banner -->
+![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)  <!-- Use an animated banner -->
 
 I'm a 3rd-year student, a future software developer, and a machine learning enthusiast, constantly exploring the realms of technology to build innovative and impactful solutions. Dive into my projects to see how I turn complex problems into elegant solutions.
 

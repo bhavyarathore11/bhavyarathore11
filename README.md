@@ -1,13 +1,7 @@
 # Welcome to My GitHub! 👋
 
 <div align="center">
-
-  <a href="./coding_animation.html" title="Click to view live coding animation">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="900" alt="Coding Cartoon Animation"/>
-  </a>
-  <br/>
-  <sub>⚡ <a href="./coding_animation.html">Open live interactive animation</a> &nbsp;|&nbsp; Built with pure HTML + CSS</sub>
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Coding Animation"/>
 </div>
 
 > 🤖 Understanding the future world with the eyes of AI — a future Python developer, AI/ML enthusiast building on LLM models and LangChain, passionate about solving real-world problems with technology.
@@ -87,7 +81,7 @@ I'm driven by curiosity and a desire to solve real-world problems through techno
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbabbbe-8d95-4cf0-a3d0-9a91eab99213.gif" width="400" alt="Coding cartoon gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Coding gif"/>
   <br><br>
   <i>⚡ "Code is poetry written for machines, but read by humans." ⚡</i>
 </div>

@@ -1,7 +1,13 @@
 # Welcome to My GitHub! 👋
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" alt="Coding Cartoon Animation"/>
+
+  <a href="./coding_animation.html" title="Click to view live coding animation">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="900" alt="Coding Cartoon Animation"/>
+  </a>
+  <br/>
+  <sub>⚡ <a href="./coding_animation.html">Open live interactive animation</a> &nbsp;|&nbsp; Built with pure HTML + CSS</sub>
+
 </div>
 
 > 🤖 Understanding the future world with the eyes of AI — a future Python developer, AI/ML enthusiast building on LLM models and LangChain, passionate about solving real-world problems with technology.
